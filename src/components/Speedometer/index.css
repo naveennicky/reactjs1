@@ -1,0 +1,49 @@
+/* Write your CSS here */
+* {
+  font-family: Roboto;
+  color: #ffffff;
+}
+.ga {
+  background-color: black;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.head1 {
+  font-size: 35px;
+  font-weight: bold;
+}
+.heda1 {
+  font-size: 27px;
+  font-weight: bold;
+}
+.para {
+  font-size: 20px;
+  font-weight: bold;
+}
+.im {
+  height: 100px;
+  width: 120px;
+}
+.but {
+  font-size: 15px;
+  background-color: blue;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 10px;
+}
+.but1 {
+  font-size: 15px;
+  background-color: transparent;
+  padding: 20px;
+  border: 2px solid #ffffff;
+  margin: 10px;
+}
+.car {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
